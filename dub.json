@@ -1,0 +1,12 @@
+{
+	"name": "game_of_thrones",
+	"description": "Game of Thrones the Board Game.",
+	"copyright": "Copyright © 2015, matthew",
+	"authors": ["matthew"],
+	"dependencies": {
+        "mysql-native": "~>0.1.3",
+        "dini": "~>1.0.0",
+        "db_constraints": "~>0.0.6"
+    },
+        "versions": ["VibeCustomMain"]
+}
